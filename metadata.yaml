@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6045
     wikipedia: http://en.wikipilipinas.org/index.php?title=Trinidad_Pardo_De_Tavera
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27863#The-Legacy-of-Ignorantism
 gutenberg_issued: '2009-01-21'
 gutenberg_type: Text
 identifiers:
